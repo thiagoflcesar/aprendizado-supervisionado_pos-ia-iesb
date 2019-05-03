@@ -4,6 +4,8 @@ IESB
 
 Pós Graduação - Inteligência Artificial
 
+Aprendizagem Supervisionada
+
 Professora: Tatiana Tavares
 
 Alunos:
